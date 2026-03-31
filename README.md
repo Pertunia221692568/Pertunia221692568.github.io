@@ -43,8 +43,6 @@ Highly motivated and detail-oriented IT Student with skills in application devel
   CSS,
   FIGMA
 
-  ## Mock Interview
-  -**Link**: [Mock Interview Session](
 
   ## References
   -Available upon request.

@@ -31,9 +31,20 @@ Highly motivated and detail-oriented IT Student with skills in application devel
   -Collaborated with team members using GIT for version control
 
 
-  ### Skills
-  -**Technical**: Java, PHP, SQL, GIT, Laravel, Android Studio, MySQL, HTML, CSS, FIGMA
-  -**Soft Skills**: Communication, team work , problem-solving, time management
+  ### Technical Skills
+  -Java,
+  PHP,
+  MySQL,
+  SQL,
+  GIT,
+  Laravel,
+  Android Studio,
+  HTML,
+  CSS,
+  FIGMA
+
+  ## Mock Interview
+  -**Link**: [Mock Interview Session](
 
   ## References
   -Available upon request.
